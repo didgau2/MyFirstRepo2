@@ -1,3 +1,5 @@
 This is some text
 This is some new content
 Adding this change on the conflict branch
+Fixing an issue in main branch
+
