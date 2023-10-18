@@ -1,0 +1,1 @@
+Content from ConflictBranchFile2.txt 
